@@ -78,6 +78,8 @@ h4 {
 
 .My-project-list {
   padding: 0 0 0 18px;
+  display: flex;
+  flex-direction: column;
 }
 
 .My-project-item {
