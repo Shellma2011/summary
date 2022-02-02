@@ -1,6 +1,6 @@
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #e5e5e5;
+  /* background-color: #e5e5e5; */
 }
 ul {
   margin-left: 0;
@@ -17,7 +17,8 @@ h4 {
   width: 1200px;
   background-color: #fff;
   margin: 40px auto;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
+  border: 1px solid gray;
 }
 
 /* main-contant-section */
