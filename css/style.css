@@ -1,0 +1,242 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+}
+ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.main-contantainer {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* main-contant-section */
+
+.main-contant-section {
+  padding: 100px 90px 90px;
+}
+
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 22px;
+  line-height: 27px;
+  color: black;
+  margin-bottom: 10px;
+}
+
+/* about-me-section */
+.about-me-section {
+  margin: 0 0 40p 0;
+}
+
+.about-me-profesion {
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 20px;
+  line-height: 17px;
+  color: #1e2939;
+  margin: 0 0 20px 0;
+}
+
+.about-me-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: black;
+  margin: 0 0 25px 0;
+}
+
+.about-me-discription {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 400px;
+  height: 120px;
+  top: 252px;
+  left: 498px;
+}
+
+/* My-project-senction */
+.My-project-senction {
+  margin-bottom: 50px;
+}
+
+.My-project-list {
+  padding: 0 0 0 18px;
+}
+
+.My-project-item {
+  color: black;
+  font-weight: bold;
+}
+
+.My-project-link {
+  color: #595959;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.My-project-text {
+  color: #595959;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 5px;
+}
+
+.My-project-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+/* My-work-experience */
+
+.My-work-experience-company {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 20px 0 5px 0;
+  color: #fb6d3a;
+}
+
+.My-work-experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 0 0 10px 0;
+}
+
+.My-work-experience-time {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 0 0 10px 0;
+}
+
+.My-work-experience-divider {
+  color: #000000;
+  font-weight: bold;
+}
+
+.My-work-experience-duties {
+  padding-left: 18px;
+}
+
+.Projects-item-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.My-work-experience-company-block {
+  margin: 0 15px 0 0;
+}
+
+/* Education-senction */
+
+.Education-senction-name-company {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+/* sidebar-section */
+
+.sidebar-section {
+  background-color: #1e2939;
+  width: 300px;
+  padding: 40px 0;
+}
+
+.Contacts-section-information {
+  display: flex;
+  list-style-type: none; /* Убираем маркеры */
+}
+.Contacts-section,
+.Tech-skills-section,
+.Soft-Skills {
+  margin: 30px 0 0 30px;
+  width: 237px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  font-weight: 27p;
+  color: white;
+  margin-bottom: 10px;
+}
+
+/* Contacts-section */
+
+.Contacts-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  /* margin-right: 7px; */
+}
+
+.Contacts-section-link {
+  word-break: break-all;
+  margin-left: 5px;
+  color: #8a919b;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+/* Tech-skills-section */
+
+.Tech-skills-list {
+  padding: 0 0 0 20px;
+  color: white;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.Tech-skills-item {
+  color: #fb6d3a;
+}
+
+.Tech-skills-item-text {
+  color: white;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
