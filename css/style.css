@@ -15,11 +15,11 @@ h4 {
 .main-contantainer {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 1380px;
   background-color: #fff;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   /* margin: 40px auto; */
-  /* box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1); */
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 /* main-contant-section */
