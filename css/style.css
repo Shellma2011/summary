@@ -66,14 +66,14 @@ h4 {
   line-height: 24px;
   color: #595959;
   /* width: 400px; */
-  height: 100px;
+  /* height: 100px; */
   top: 252px;
   left: 498px;
 }
 
 /* My-project-senction */
 .My-project-senction {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 
 .My-project-list {
@@ -144,7 +144,7 @@ h4 {
 /* My-work-experience */
 
 .My-work-experience-senction {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 
 .My-work-experience-company {
