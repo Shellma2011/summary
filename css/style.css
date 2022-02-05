@@ -152,7 +152,7 @@ h4 {
 .My-work-experience-company {
   font-style: normal;
   font-weight: bold;
-  font-size: 18px;
+  /* font-size: 18px; */
   line-height: 20px;
   margin-bottom: 20px 0 5px 0;
   color: #fb6d3a;
@@ -161,9 +161,9 @@ h4 {
 .My-work-experience-position {
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 20px;
-  /* margin-bottom: 10px; */
+  /* margin-bottom: 5px; */
 }
 
 .My-work-experience-time {
@@ -231,7 +231,7 @@ h4 {
 
 .sidebar-section {
   background-color: #1e2939;
-  width: 320px;
+  width: 380px;
   padding: 40px 0;
 }
 
@@ -244,7 +244,7 @@ h4 {
 .Tech-skills-section,
 .Soft-Skills {
   margin: 40px 0 0 40px;
-  width: 240px;
+  width: 275px;
 }
 
 .sidebar-title {
