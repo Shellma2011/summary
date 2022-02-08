@@ -92,7 +92,8 @@ h4 {
 }
 
 .My-project-link-web {
-  /* color: #595959; */
+  color: #595959;
+  /* color: #000000; */
   font-style: normal;
   /* font-weight: normal; */
   font-size: 18px;
@@ -100,7 +101,7 @@ h4 {
 }
 
 .My-project-link {
-  /* color: #595959; */
+  color: #595959;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -276,7 +277,8 @@ h4 {
 .Contacts-section-link {
   word-break: break-all;
   /* margin-left: 5px; */
-  color: #8a919b;
+  /* color: #8a919b; */
+  color: #fff;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
